@@ -20,6 +20,9 @@ import com.shoppingcart.qa.utilities.DataUtil;
 import com.shoppingcart.qa.utilities.Log;
 import com.shoppingcart.qa.utilities.MyXLSReader;
 
+
+//adding the first comment
+
 public class RegisterTest extends BaseClass {
 
 	public WebDriver driver;
